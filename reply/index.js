@@ -1,1 +1,0 @@
-exports.nyz = require('./nyz')
